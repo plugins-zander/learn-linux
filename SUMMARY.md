@@ -31,5 +31,6 @@
     * [deepin启动器创建新图标](books/1037.md)
     * [deepin双系统时无法实现对win文件操作](books/1038.md)
     * [先装deepin再装win无deepin启动项](books/1039.md)
-* [end1043](books/1999.md)
+    * [man的中文手册的安装](books/1043.md)
+* [end1044](books/1999.md)
 
