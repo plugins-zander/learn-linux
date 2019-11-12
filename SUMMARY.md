@@ -32,5 +32,6 @@
     * [deepin双系统时无法实现对win文件操作](books/1038.md)
     * [先装deepin再装win无deepin启动项](books/1039.md)
     * [man的中文手册的安装](books/1043.md)
-* [end1044](books/1999.md)
+    * [deepin配置wireshark](books/1044.md)
+* [end1045](books/1999.md)
 
