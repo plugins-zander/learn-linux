@@ -33,5 +33,6 @@
     * [先装deepin再装win无deepin启动项](books/1039.md)
     * [man的中文手册的安装](books/1043.md)
     * [deepin配置wireshark](books/1044.md)
+    * [deepin安装Cisco Packet Tracer](books/1045.md)
 * [end1045](books/1999.md)
 
